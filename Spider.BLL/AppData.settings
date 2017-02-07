@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="InitWebsite" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">http://www.anecpla.com/</Value>
+      <Value Profile="(Default)">PUT-HERE-YOUR-INIT-WEBSITE</Value>
     </Setting>
   </Settings>
 </SettingsFile>

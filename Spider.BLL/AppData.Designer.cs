@@ -25,7 +25,7 @@ namespace Spider.BLL {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://www.anecpla.com/")]
+        [global::System.Configuration.DefaultSettingValueAttribute("PUT-HERE-YOUR-INIT-WEBSITE")]
         public string InitWebsite {
             get {
                 return ((string)(this["InitWebsite"]));
