@@ -250,3 +250,8 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+Spider.DAL/ConnectionStringSetting.Designer.cs
+*.settings
+*.settings
+Spider.BLL/AppData.Designer.cs
+*.config
