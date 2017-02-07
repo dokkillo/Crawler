@@ -26,8 +26,7 @@ namespace Spider.DAL {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-VRLV2K0\\SQLEXPRESS;Initial Catalog=Crawler;Integrated Securit" +
-            "y=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("PUT-HERE-YOUR-CS")]
         public string cs {
             get {
                 return ((string)(this["cs"]));
